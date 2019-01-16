@@ -12,8 +12,8 @@
     <artifactId>hystrix-test</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>first-hystrix-client</module>
-        <module>first-hystrix-server</module>
+        <module>hystrix-client</module>
+        <module>hystrix-server</module>
     </modules>
 
 

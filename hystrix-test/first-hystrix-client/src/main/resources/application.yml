@@ -1,3 +1,0 @@
-hystrix:
-    command:
-      default.execution .isolation . thread . timeoutinMilliseconds

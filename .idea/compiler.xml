@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-invoker" />
+        <module name="cloud-provider" />
+        <module name="env-test" />
+        <module name="feign-client" />
+        <module name="feign-invoker" />
+        <module name="feign-provider" />
+        <module name="feign-server" />
+        <module name="first-cloud-invoker" />
+        <module name="first-cloud-provider" />
+        <module name="first-cloud-rest-client" />
+        <module name="first-cloud-server" />
+        <module name="first-ek-server" />
+        <module name="first-ek-service-invoker" />
+        <module name="first-ek-service-provider" />
+        <module name="first-hystrix-client" />
+        <module name="first-hystrix-server" />
+        <module name="first-ribbon-server" />
+        <module name="health-handler-invoker" />
+        <module name="health-handler-provider" />
+        <module name="health-handler-server" />
+        <module name="rest-client" />
+        <module name="rest-server" />
+        <module name="rest-template-test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

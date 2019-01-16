@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/env-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-cluster/first-cloud-invoker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-cluster/first-cloud-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-cluster/first-cloud-rest-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-cluster/first-cloud-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-test/feign-invoker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-test/feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-test/feign-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-ek-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-ek-service-invoker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-ek-service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler/health-handler-invoker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler/health-handler-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler/health-handler-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-test/first-hystrix-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-test/first-hystrix-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-template-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-test/feign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-test/rest-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-test/rest-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-test/cloud-invoker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-test/cloud-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-test/cloud-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-test/first-ribbon-server" charset="UTF-8" />
+  </component>
+</project>

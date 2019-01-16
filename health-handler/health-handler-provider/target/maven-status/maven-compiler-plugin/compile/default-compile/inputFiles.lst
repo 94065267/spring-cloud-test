@@ -1,0 +1,5 @@
+D:\IdeaSpace\cloud\spring-cloud-test\health-handler\health-handler-provider\src\main\java\com\jixs\cloud\health\provider\dto\Person.java
+D:\IdeaSpace\cloud\spring-cloud-test\health-handler\health-handler-provider\src\main\java\com\jixs\cloud\health\provider\controller\HealthController.java
+D:\IdeaSpace\cloud\spring-cloud-test\health-handler\health-handler-provider\src\main\java\com\jixs\cloud\health\provider\handler\MyHealthIndicator.java
+D:\IdeaSpace\cloud\spring-cloud-test\health-handler\health-handler-provider\src\main\java\com\jixs\cloud\health\provider\handler\MyHealthCheckHandler.java
+D:\IdeaSpace\cloud\spring-cloud-test\health-handler\health-handler-provider\src\main\java\com\jixs\cloud\health\provider\HealthProvider.java

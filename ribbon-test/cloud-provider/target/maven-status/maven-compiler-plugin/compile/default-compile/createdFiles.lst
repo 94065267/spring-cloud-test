@@ -1,0 +1,4 @@
+com\jixs\cloud\ribbon\provider\Person.class
+com\jixs\cloud\ribbon\provider\FirstController.class
+com\jixs\cloud\ribbon\provider\FirstServiceProvider.class
+com\jixs\cloud\ribbon\provider\FirstServiceProvider2.class

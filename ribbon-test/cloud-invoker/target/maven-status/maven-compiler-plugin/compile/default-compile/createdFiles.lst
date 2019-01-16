@@ -1,0 +1,6 @@
+com\jixs\cloud\ribbon\invoker\config\MyConfig.class
+com\jixs\cloud\ribbon\invoker\config\CloudProviderConfig.class
+com\jixs\cloud\ribbon\invoker\controller\InvokerController.class
+com\jixs\cloud\ribbon\invoker\ping\MyPing.class
+com\jixs\cloud\ribbon\invoker\rule\MyRule.class
+com\jixs\cloud\ribbon\invoker\FirstInvoker.class

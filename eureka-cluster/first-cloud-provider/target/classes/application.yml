@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cluster-providers
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://slave1:8761/eureka/,http://slave2:8762/eureka/

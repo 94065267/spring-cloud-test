@@ -1,0 +1,12 @@
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\rule\ServerChooseRule.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\dto\Person.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\TestPingUrl.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\TestPingUrlConfig.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\ChooseServerTest.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\FirstServerStrap1.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\controller\MyController.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\ping\ServerPing.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\ServerChooseRuleConfigTest.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\ServerChooseRuleTest.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\FirstServerStrap2.java
+D:\IdeaSpace\cloud\spring-cloud-test\ribbon-test\first-ribbon-server\src\main\java\com\jixs\ribbon\RestClientTest.java

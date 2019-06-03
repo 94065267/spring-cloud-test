@@ -2,8 +2,6 @@ package com.jixs.cloud.feign.client;
 
 import feign.Headers;
 import feign.Param;
-import feign.RequestLine;
-import lombok.Data;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
